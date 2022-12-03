@@ -107,7 +107,7 @@ body,html{
 	left: 0;
 }
 .header-brand img{
-	margin-top: 0px;
+	margin-top: 10px;
 	max-width: calc(var(--header-height) - 8px);
 }
 .header-options{
@@ -253,24 +253,26 @@ body,html{
 }
 @keyframes banner{
 	0%{
-		background-image: url('../assets/img/portada1.png');
+		background-image: url('../assets/img/portada1.png.jfif');
 	}
 	33%{
-		background-image: url('../assets/img/portada1.png');
+		background-image: url('../assets/img/portada1.png.jfif');
 	}
+
 
 	34%{
-		background-image: url('../assets/img/portada2.png');
+		background-image: url('../assets/img/portada2.png..jfif');
 	}
 	66%{
-		background-image: url('../assets/img/portada2.png');
+		background-image: url('../assets/img/portada2.png..jfif');
 	}
 
+
 	67%{
-		background-image: url('../assets/img/portada3.png');
+		background-image: url('../assets/img/portada3.png.jfif');
 	}
 	100%{
-		background-image: url('../assets/img/portada3.png');
+		background-image: url('../assets/img/portada3.png.jfif');
 	}
 
 }
